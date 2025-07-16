@@ -1,0 +1,79 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: ""
+  favicon: "plot/econ148-hex-logo.png"
+  
+  repo-url: https://github.com/econ148-analytical-stat-package
+  site-url: https://econ148-analytical-stat-package.github.io/econ148-site/
+  
+  sidebar:
+    style: docked
+    pinned: true
+    search: true
+    tools:
+      - icon: facebook
+        href: https://www.facebook.com/viserdac/
+      - icon: globe
+        href: https://viserdac.vsu.edu.ph/
+      - icon: github
+        href: https://github.com/vsu-viserdac/impact-assessment
+    
+    contents:
+      - href: "index.qmd"
+        text: "**Home**"
+      - section: "**Day 1 Sessions**"
+        contents:
+          - href: ""
+            text: "Lecture 1: Introduction to Impact Assessment"
+          - href: ""
+            text: "Lecture 2: Validating theory of change"
+          - href: ""
+            text: "Lecture 3: Development of impact pathway and adoption studies"
+          - href: ""
+            text: "Workshop 1: Developing the impact pathway"
+
+      
+      - section: "**Day 2 Sessions**"
+        contents:
+          - href: ""
+            text: "Lecture 4: Introduction to Stat/R software"
+          - href: ""
+            text: "Workshop 2: use and application of Stata/R"
+          - href: ""
+            text: "Lecture 5: Analytical methods for adoption studies"
+          - href: ""
+            text: "Workshop 3: Adoption studies"
+          - href: ""
+            text: "Lecture 6: Cost-benefit analysis"
+            
+      
+      - section: "**Day 3 Sessions**"
+        contents:
+          - href: ""
+            text: "Lecture 7: Impact estimation using PSM"
+          - href: ""
+            text: "Workshop 4: propensity score matching (PSM"
+          - href: ""
+            text: "Lecture 8: Impact estimation using DID method"
+          - href: ""
+            text: "Workshop 5: Difference-in-differences (DID)"
+          - href: ""
+            text: "Lecture 9: Mixed methods approach to IA"
+      
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, dark-style.scss]
+    mainfont: "Arial"
+    code-copy: true
+    code-overflow: wrap
+    toc: false
+
+freeze: auto
+editor: visual
+
