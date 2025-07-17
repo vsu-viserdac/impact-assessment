@@ -1,0 +1,15 @@
+---
+title: "About the Resource Persons"
+---
+
+<br>
+
+![](plot/RP-MNVS.png){fig-align="center"}
+
+<br>
+
+![](plot/RP-CAL.png){fig-align="center"}
+
+<br>
+
+![](plot/RP-CFC.png){fig-align="center"}

@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "08-L8-impact-estimation-did.html",
     "href": "08-L8-impact-estimation-did.html",
     "title": "Lecture 8: Impact Estimation using Difference-in-Difference (DiD) method",
@@ -77,10 +84,14 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "09-L9-mixed-methods-ia.html",
+    "href": "09-L9-mixed-methods-ia.html",
+    "title": "Lecture 9: Mixed Methods Approaches to Impact Assessment",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Topic outline\n\nDevelopment of Mixed-Method Approaches\nPlanning Mixed-Methods IA\nThe MMAIA Framework\nApplication examples\nCommunicating results\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 3 sessions**",
+      "Lecture 9: Mixed methods approach to IA"
+    ]
   }
 ]

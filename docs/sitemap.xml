@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/index.html</loc>
-    <lastmod>2025-07-17T00:21:00.919Z</lastmod>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/rp.html</loc>
+    <lastmod>2025-07-17T06:09:09.970Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/about.html</loc>
+    <lastmod>2025-07-17T00:21:00.901Z</lastmod>
   </url>
   <url>
     <loc>https://econ148-analytical-stat-package.github.io/econ148-site/08-L8-impact-estimation-did.html</loc>
@@ -33,7 +37,11 @@
     <lastmod>2025-07-17T04:21:27.140Z</lastmod>
   </url>
   <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/about.html</loc>
-    <lastmod>2025-07-17T00:21:00.901Z</lastmod>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/09-L9-mixed-methods-ia.html</loc>
+    <lastmod>2025-07-17T05:30:40.005Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/index.html</loc>
+    <lastmod>2025-07-17T06:06:17.585Z</lastmod>
   </url>
 </urlset>

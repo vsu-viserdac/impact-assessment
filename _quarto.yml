@@ -25,6 +25,8 @@ website:
     contents:
       - href: "index.qmd"
         text: "**Home**"
+      - href: "rp.qmd"
+        text: "**Resource persons**"
       - section: "**Day 1 sessions**"
         contents:
           - href: "01-L1-intro-impact-assessment.qmd"
@@ -61,7 +63,7 @@ website:
             text: "Lecture 8: Impact estimation using DiD method"
           - href: ""
             text: "Workshop 5: Difference-in-differences (DiD)"
-          - href: ""
+          - href: "09-L9-mixed-methods-ia.qmd"
             text: "Lecture 9: Mixed methods approach to IA"
       
 format:
