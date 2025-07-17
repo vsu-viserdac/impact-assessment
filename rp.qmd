@@ -1,8 +1,11 @@
 ---
-title: "About the Resource Persons"
+title: ""
 ---
+![](plot/ie-header.jpg){fig-align="center"}
 
 <br>
+
+## About the Resource Persons
 
 ![](plot/RP-MNVS.png){fig-align="center"}
 
