@@ -57,10 +57,10 @@ website:
             text: "Lecture 7: Impact estimation using PSM"
           - href: ""
             text: "Workshop 4: propensity score matching (PSM"
+          - href: "08-L8-impact-estimation-did.qmd"
+            text: "Lecture 8: Impact estimation using DiD method"
           - href: ""
-            text: "Lecture 8: Impact estimation using DID method"
-          - href: ""
-            text: "Workshop 5: Difference-in-differences (DID)"
+            text: "Workshop 5: Difference-in-differences (DiD)"
           - href: ""
             text: "Lecture 9: Mixed methods approach to IA"
       

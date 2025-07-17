@@ -1,0 +1,23 @@
+---
+title: "Lecture 8: Impact Estimation using Difference-in-Difference (DiD) method"
+---
+
+#### Topic outline
+
+- Framework of DiD
+- Assumptions of DiD
+- Data requirements for DiD
+- Regression specifications for DiD
+- DiD applications
+
+<a href="https://drive.google.com/file/d/141hsCZ_cyRLYRD-twr7krVp9wWfD4mfP/view?usp=sharing" target="_blank" class="btn-slides">View presentation in new window</a>
+
+
+::: {.box style="padding-bottom:56.25%; position:relative; display:block; width:100%;"}
+
+<iframe src="https://drive.google.com/file/d/141hsCZ_cyRLYRD-twr7krVp9wWfD4mfP/preview" 
+        style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+        frameborder="0" 
+        allow="autoplay"></iframe>
+
+:::

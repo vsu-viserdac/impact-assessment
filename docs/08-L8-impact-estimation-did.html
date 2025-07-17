@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lecture 2: Validating Theory of Change</title>
+<title>Lecture 8: Impact Estimation using Difference-in-Difference (DiD) method</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./03-L3-dev-impact-pathways.html" rel="next">
-<link href="./01-L1-intro-impact-assessment.html" rel="prev">
+<link href="./07-L7-impact-estimation-psm.html" rel="prev">
 <link href="./plot/econ148-hex-logo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -83,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-L1-intro-impact-assessment.html"><strong>Day 1 sessions</strong></a></li><li class="breadcrumb-item"><a href="./02-L1-theory-of-change.html">Lecture 2: Validating theory of change</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./07-L7-impact-estimation-psm.html"><strong>Day 3 sessions</strong></a></li><li class="breadcrumb-item"><a href="./08-L8-impact-estimation-did.html">Lecture 8: Impact estimation using DiD method</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -132,7 +131,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./02-L1-theory-of-change.html" class="sidebar-item-text sidebar-link active">
+  <a href="./02-L1-theory-of-change.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Lecture 2: Validating theory of change</span></a>
   </div>
 </li>
@@ -199,7 +198,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./08-L8-impact-estimation-did.html" class="sidebar-item-text sidebar-link">
+  <a href="./08-L8-impact-estimation-did.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Lecture 8: Impact estimation using DiD method</span></a>
   </div>
 </li>
@@ -220,9 +219,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-L1-intro-impact-assessment.html"><strong>Day 1 sessions</strong></a></li><li class="breadcrumb-item"><a href="./02-L1-theory-of-change.html">Lecture 2: Validating theory of change</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./07-L7-impact-estimation-psm.html"><strong>Day 3 sessions</strong></a></li><li class="breadcrumb-item"><a href="./08-L8-impact-estimation-did.html">Lecture 8: Impact estimation using DiD method</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Lecture 2: Validating Theory of Change</h1>
+<h1 class="title">Lecture 8: Impact Estimation using Difference-in-Difference (DiD) method</h1>
 </div>
 
 
@@ -242,15 +241,15 @@ ul.task-list li input[type="checkbox"] {
 <section id="topic-outline" class="level4">
 <h4 class="anchored" data-anchor-id="topic-outline">Topic outline</h4>
 <ul>
-<li>Introduction</li>
-<li>Outcome-based approach</li>
-<li>Developing a Theory of Change (ToC)</li>
-<li>Models and frameworks for ToC</li>
-<li>Impact pathways</li>
+<li>Framework of DiD</li>
+<li>Assumptions of DiD</li>
+<li>Data requirements for DiD</li>
+<li>Regression specifications for DiD</li>
+<li>DiD applications</li>
 </ul>
-<p><a href="https://drive.google.com/file/d/1K5T_3nvfc_5n8o4LeKl3-BOunMNXhSb_/view?usp=sharing" target="_blank" class="btn-slides">View presentation in new window</a></p>
+<p><a href="https://drive.google.com/file/d/141hsCZ_cyRLYRD-twr7krVp9wWfD4mfP/view?usp=sharing" target="_blank" class="btn-slides">View presentation in new window</a></p>
 <div class="box" style="padding-bottom:56.25%; position:relative; display:block; width:100%;">
-<iframe src="https://drive.google.com/file/d/1K5T_3nvfc_5n8o4LeKl3-BOunMNXhSb_/preview" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="autoplay">
+<iframe src="https://drive.google.com/file/d/141hsCZ_cyRLYRD-twr7krVp9wWfD4mfP/preview" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="autoplay">
 </iframe>
 </div>
 
@@ -821,14 +820,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./01-L1-intro-impact-assessment.html" class="pagination-link" aria-label="Lecture 1: Introduction to Impact Assessment">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Lecture 1: Introduction to Impact Assessment</span>
+      <a href="./07-L7-impact-estimation-psm.html" class="pagination-link" aria-label="Lecture 7: Impact estimation using PSM">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Lecture 7: Impact estimation using PSM</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./03-L3-dev-impact-pathways.html" class="pagination-link" aria-label="Lecture 3: Development of impact pathway and adoption studies">
-        <span class="nav-page-text">Lecture 3: Development of impact pathway and adoption studies</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
