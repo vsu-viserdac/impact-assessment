@@ -29,7 +29,7 @@ website:
         contents:
           - href: "01-L1-intro-impact-assessment.qmd"
             text: "Lecture 1: Introduction to Impact Assessment"
-          - href: ""
+          - href: "02-L1-theory-of-change.qmd"
             text: "Lecture 2: Validating theory of change"
           - href: ""
             text: "Lecture 3: Development of impact pathway and adoption studies"
