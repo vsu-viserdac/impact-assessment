@@ -25,9 +25,9 @@ website:
     contents:
       - href: "index.qmd"
         text: "**Home**"
-      - section: "**Day 1 Sessions**"
+      - section: "**Day 1 sessions**"
         contents:
-          - href: ""
+          - href: "01-L1-intro-impact-assessment.qmd"
             text: "Lecture 1: Introduction to Impact Assessment"
           - href: ""
             text: "Lecture 2: Validating theory of change"
@@ -37,7 +37,7 @@ website:
             text: "Workshop 1: Developing the impact pathway"
 
       
-      - section: "**Day 2 Sessions**"
+      - section: "**Day 2 sessions**"
         contents:
           - href: ""
             text: "Lecture 4: Introduction to Stat/R software"
@@ -51,7 +51,7 @@ website:
             text: "Lecture 6: Cost-benefit analysis"
             
       
-      - section: "**Day 3 Sessions**"
+      - section: "**Day 3 sessions**"
         contents:
           - href: ""
             text: "Lecture 7: Impact estimation using PSM"
