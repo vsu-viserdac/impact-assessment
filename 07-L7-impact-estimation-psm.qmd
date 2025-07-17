@@ -1,0 +1,23 @@
+---
+title: "Lecture 7: Impact estimation using Propensity Score Matching (PSM)"
+---
+
+#### Topic outline
+
+- When to use matching
+- Basic mechanics of matching
+- The curse of dimensionality
+- Implementing PSM
+- PSM examples
+
+<a href="https://drive.google.com/file/d/1UiiXgWbuLirDIJpVfHar2TfdJWy4zj0E/view?usp=sharing" target="_blank" class="btn-slides">View presentation in new window</a>
+
+
+::: {.box style="padding-bottom:56.25%; position:relative; display:block; width:100%;"}
+
+<iframe src="https://drive.google.com/file/d/1UiiXgWbuLirDIJpVfHar2TfdJWy4zj0E/preview" 
+        style="position:absolute; top:0; left:0; width:100%; height:100%;" 
+        frameborder="0" 
+        allow="autoplay"></iframe>
+
+:::

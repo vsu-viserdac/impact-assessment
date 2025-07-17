@@ -53,7 +53,7 @@ website:
       
       - section: "**Day 3 sessions**"
         contents:
-          - href: ""
+          - href: "07-L7-impact-estimation-psm.qmd"
             text: "Lecture 7: Impact estimation using PSM"
           - href: ""
             text: "Workshop 4: propensity score matching (PSM"
