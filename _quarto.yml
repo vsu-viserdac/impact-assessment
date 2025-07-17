@@ -39,8 +39,8 @@ website:
       
       - section: "**Day 2 sessions**"
         contents:
-          - href: ""
-            text: "Lecture 4: Introduction to Stat/R software"
+          - href: "04-L4-intro-stata.qmd"
+            text: "Lecture 4: Introduction to Stata/R software"
           - href: ""
             text: "Workshop 2: use and application of Stata/R"
           - href: ""
