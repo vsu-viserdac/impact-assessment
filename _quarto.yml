@@ -35,7 +35,7 @@ website:
             text: "Lecture 2: Validating theory of change"
           - href: "03-L3-dev-impact-pathways.qmd"
             text: "Lecture 3: Development of impact pathway and adoption studies"
-          - href: ""
+          - href: "10-W1-impact-pathway.qmd"
             text: "Workshop 1: Developing the impact pathway"
 
       

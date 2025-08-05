@@ -1,0 +1,34 @@
+---
+title: "Workshop 1: Developing Impact Pathway"
+---
+
+#### Objecive
+
+To collaboratively develop a visual representation of your project's theory of change, from its initial outputs to its ultimate impacts. This pathway will serve as a foundational tool for designing robust impact assessment studies.
+
+#### Materials:
+
+- Impact Pathway Template: [Insert Link to Google Slide Template Here]
+- Discussion Prompts: Consider the following questions as you work:
+    
+    - Are the connections between each box logical and realistic?
+    - What assumptions are you making about the "Adoption Pathway"?
+    - How will you measure the changes in "Project Outcomes" and "Project Impacts"
+    
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkAS2ktZ8kj5zVUzfjLGfS0rlRhpMwLDs4fNhyIzb6uDijVt0mQ6a_1cCjQFArWw/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="882" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+#### Instructions:
+
+1. **Access the Template:** You will be provided with a link to a Google Slides presentation. This presentation contains a pre-formatted template for the impact pathway.
+
+2. **Make a Copy:** Once you open the link, go to File > Make a copy > Entire presentation. Rename the file with your team or project name (e.g., "Team Alpha - Impact Pathway" or "Project X - Impact Pathway"). This will ensure you can edit your own version without affecting the original template.
+
+3. **Collaborate with Your Group:** Work with your assigned group to fill in each section of the impact pathway diagram. Use the template as your guide. The different sections are as follows:
+
+    - R.D.E. Project Outputs: What specific deliverables or results are produced directly by your project? Consider the categories of Technology, Capacity Development, and Policy.
+    - Adoption Pathway: How do the project outputs translate into actions or changes by your target audience? Think about the steps that lead from the outputs to the outcomes, such as Commercialization, Communication, Capacity Building, and Regulation.
+    - Project Outcomes: What are the short-to-medium-term changes that occur as a result of the project outputs being adopted? Focus on changes in Practice, Product, and Policy.
+    - Project Impacts: What are the long-term, broader effects of the project outcomes? Categorize these impacts as Economic, Social, and Environmental.
+
+4. **Presentation of Workshop Outputs:* Be prepared to present your completed impact pathway to the larger group. A designated representative from each team will have 5-10 minutes to explain their group's pathway. The focus should be on clearly articulating the logical flow from outputs to impacts and justifying the connections between each stage.

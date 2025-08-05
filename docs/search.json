@@ -17,69 +17,14 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "08-L8-impact-estimation-did.html",
-    "href": "08-L8-impact-estimation-did.html",
-    "title": "Lecture 8: Impact Estimation using Difference-in-Difference (DiD) method",
+    "objectID": "09-L9-mixed-methods-ia.html",
+    "href": "09-L9-mixed-methods-ia.html",
+    "title": "Lecture 9: Mixed Methods Approaches to Impact Assessment",
     "section": "",
-    "text": "Topic outline\n\nFramework of DiD\nAssumptions of DiD\nData requirements for DiD\nRegression specifications for DiD\nDiD applications\n\nView presentation in new window",
+    "text": "Topic outline\n\nDevelopment of Mixed-Method Approaches\nPlanning Mixed-Methods IA\nThe MMAIA Framework\nApplication examples\nCommunicating results\n\nView presentation in new window",
     "crumbs": [
       "**Day 3 sessions**",
-      "Lecture 8: Impact estimation using DiD method"
-    ]
-  },
-  {
-    "objectID": "05-L5-analytical-methods-adoption-studies.html",
-    "href": "05-L5-analytical-methods-adoption-studies.html",
-    "title": "Lecture 5: Analytical Methods for Adoption Studies",
-    "section": "",
-    "text": "Topic outline\n\nOveriew\nFocus on adoption studies\nLimited Dependent Variables (LIMDEP) models\nApplication\n\nView presentation in new window",
-    "crumbs": [
-      "**Day 2 sessions**",
-      "Lecture 5: Analytical methods for adoption studies"
-    ]
-  },
-  {
-    "objectID": "03-L3-dev-impact-pathways.html",
-    "href": "03-L3-dev-impact-pathways.html",
-    "title": "Lecture 3: Development of impact pathways and adoption studies",
-    "section": "",
-    "text": "Topic outline\n\nIntroduction\nOutcome-based approach\nDeveloping a Theory of Change (ToC)\nModels and frameworks for ToC\nImpact pathways\n\nView presentation in new window",
-    "crumbs": [
-      "**Day 1 sessions**",
-      "Lecture 3: Development of impact pathway and adoption studies"
-    ]
-  },
-  {
-    "objectID": "01-L1-intro-impact-assessment.html",
-    "href": "01-L1-intro-impact-assessment.html",
-    "title": "Lecture 1: Introduction to Impact Assessment",
-    "section": "",
-    "text": "Topic outline\n\nPre-assessment, overview and introduction of socio-econ sector\nIntroduction\nMonitoring and evaluation\nExample of impact estimation\nSteps and criteria in the assessment\nDimensions of impact\nBasic and advanced approaches\n\nView presentation in new window",
-    "crumbs": [
-      "**Day 1 sessions**",
-      "Lecture 1: Introduction to Impact Assessment"
-    ]
-  },
-  {
-    "objectID": "02-L1-theory-of-change.html",
-    "href": "02-L1-theory-of-change.html",
-    "title": "Lecture 2: Validating Theory of Change",
-    "section": "",
-    "text": "Topic outline\n\nIntroduction\nOutcome-based approach\nDeveloping a Theory of Change (ToC)\nModels and frameworks for ToC\nImpact pathways\n\nView presentation in new window",
-    "crumbs": [
-      "**Day 1 sessions**",
-      "Lecture 2: Validating theory of change"
-    ]
-  },
-  {
-    "objectID": "04-L4-intro-stata.html",
-    "href": "04-L4-intro-stata.html",
-    "title": "Lecture 4: Introduction to Stata/R software",
-    "section": "",
-    "text": "Topic outline\n\nFalimiarity with Stata/R software interface\nData importation\nBasic data management, operation and descriptive analysis\nCreating log files\n\nView presentation in new window",
-    "crumbs": [
-      "**Day 2 sessions**",
-      "Lecture 4: Introduction to Stata/R software"
+      "Lecture 9: Mixed methods approach to IA"
     ]
   },
   {
@@ -94,14 +39,80 @@
     ]
   },
   {
-    "objectID": "09-L9-mixed-methods-ia.html",
-    "href": "09-L9-mixed-methods-ia.html",
-    "title": "Lecture 9: Mixed Methods Approaches to Impact Assessment",
+    "objectID": "04-L4-intro-stata.html",
+    "href": "04-L4-intro-stata.html",
+    "title": "Lecture 4: Introduction to Stata/R software",
     "section": "",
-    "text": "Topic outline\n\nDevelopment of Mixed-Method Approaches\nPlanning Mixed-Methods IA\nThe MMAIA Framework\nApplication examples\nCommunicating results\n\nView presentation in new window",
+    "text": "Topic outline\n\nFalimiarity with Stata/R software interface\nData importation\nBasic data management, operation and descriptive analysis\nCreating log files\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 2 sessions**",
+      "Lecture 4: Introduction to Stata/R software"
+    ]
+  },
+  {
+    "objectID": "02-L1-theory-of-change.html",
+    "href": "02-L1-theory-of-change.html",
+    "title": "Lecture 2: Validating Theory of Change",
+    "section": "",
+    "text": "Topic outline\n\nIntroduction\nOutcome-based approach\nDeveloping a Theory of Change (ToC)\nModels and frameworks for ToC\nImpact pathways\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 1 sessions**",
+      "Lecture 2: Validating theory of change"
+    ]
+  },
+  {
+    "objectID": "01-L1-intro-impact-assessment.html",
+    "href": "01-L1-intro-impact-assessment.html",
+    "title": "Lecture 1: Introduction to Impact Assessment",
+    "section": "",
+    "text": "Topic outline\n\nPre-assessment, overview and introduction of socio-econ sector\nIntroduction\nMonitoring and evaluation\nExample of impact estimation\nSteps and criteria in the assessment\nDimensions of impact\nBasic and advanced approaches\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 1 sessions**",
+      "Lecture 1: Introduction to Impact Assessment"
+    ]
+  },
+  {
+    "objectID": "03-L3-dev-impact-pathways.html",
+    "href": "03-L3-dev-impact-pathways.html",
+    "title": "Lecture 3: Development of impact pathways and adoption studies",
+    "section": "",
+    "text": "Topic outline\n\nIntroduction\nOutcome-based approach\nDeveloping a Theory of Change (ToC)\nModels and frameworks for ToC\nImpact pathways\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 1 sessions**",
+      "Lecture 3: Development of impact pathway and adoption studies"
+    ]
+  },
+  {
+    "objectID": "05-L5-analytical-methods-adoption-studies.html",
+    "href": "05-L5-analytical-methods-adoption-studies.html",
+    "title": "Lecture 5: Analytical Methods for Adoption Studies",
+    "section": "",
+    "text": "Topic outline\n\nOveriew\nFocus on adoption studies\nLimited Dependent Variables (LIMDEP) models\nApplication\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 2 sessions**",
+      "Lecture 5: Analytical methods for adoption studies"
+    ]
+  },
+  {
+    "objectID": "08-L8-impact-estimation-did.html",
+    "href": "08-L8-impact-estimation-did.html",
+    "title": "Lecture 8: Impact Estimation using Difference-in-Difference (DiD) method",
+    "section": "",
+    "text": "Topic outline\n\nFramework of DiD\nAssumptions of DiD\nData requirements for DiD\nRegression specifications for DiD\nDiD applications\n\nView presentation in new window",
     "crumbs": [
       "**Day 3 sessions**",
-      "Lecture 9: Mixed methods approach to IA"
+      "Lecture 8: Impact estimation using DiD method"
+    ]
+  },
+  {
+    "objectID": "10-W1-impact-pathway.html",
+    "href": "10-W1-impact-pathway.html",
+    "title": "Workshop 1: Developing Impact Pathway",
+    "section": "",
+    "text": "Objecive\nTo collaboratively develop a visual representation of your project’s theory of change, from its initial outputs to its ultimate impacts. This pathway will serve as a foundational tool for designing robust impact assessment studies.\n\n\nMaterials:\n\nImpact Pathway Template: [Insert Link to Google Slide Template Here]\nDiscussion Prompts: Consider the following questions as you work:\n\nAre the connections between each box logical and realistic?\nWhat assumptions are you making about the “Adoption Pathway”?\nHow will you measure the changes in “Project Outcomes” and “Project Impacts”\n\n\n\n\n\n\nInstructions:\n\nAccess the Template: You will be provided with a link to a Google Slides presentation. This presentation contains a pre-formatted template for the impact pathway.\nMake a Copy: Once you open the link, go to File &gt; Make a copy &gt; Entire presentation. Rename the file with your team or project name (e.g., “Team Alpha - Impact Pathway” or “Project X - Impact Pathway”). This will ensure you can edit your own version without affecting the original template.\nCollaborate with Your Group: Work with your assigned group to fill in each section of the impact pathway diagram. Use the template as your guide. The different sections are as follows:\n\nR.D.E. Project Outputs: What specific deliverables or results are produced directly by your project? Consider the categories of Technology, Capacity Development, and Policy.\nAdoption Pathway: How do the project outputs translate into actions or changes by your target audience? Think about the steps that lead from the outputs to the outcomes, such as Commercialization, Communication, Capacity Building, and Regulation.\nProject Outcomes: What are the short-to-medium-term changes that occur as a result of the project outputs being adopted? Focus on changes in Practice, Product, and Policy.\nProject Impacts: What are the long-term, broader effects of the project outcomes? Categorize these impacts as Economic, Social, and Environmental.\n\n**Presentation of Workshop Outputs:* Be prepared to present your completed impact pathway to the larger group. A designated representative from each team will have 5-10 minutes to explain their group’s pathway. The focus should be on clearly articulating the logical flow from outputs to impacts and justifying the connections between each stage.",
+    "crumbs": [
+      "**Day 1 sessions**",
+      "Workshop 1: Developing the impact pathway"
     ]
   }
 ]
