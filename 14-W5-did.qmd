@@ -4,4 +4,4 @@ title: "Workshop 5: Difference-in-difference (DiD)"
 
 #### Materials
 
-1. 1. **Access the Workshop Files:** Please download the required files from the shared folder: [workshop dataset](https://drive.google.com/drive/folders/1rS74ffa3l-iJR6a11RtDYJaEKQia9AMr?usp=sharing)
+1. **Access the Workshop Files:** Please download the required files from the shared folder: [workshop dataset](https://drive.google.com/drive/folders/1rS74ffa3l-iJR6a11RtDYJaEKQia9AMr?usp=sharing)
