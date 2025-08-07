@@ -1,0 +1,24 @@
+---
+title: "Workshop 3: adoption studies"
+---
+
+
+#### Materials:
+
+1. **Access the Workshop Files:**Please download the required dataset from the shared folder. [Workshop dataset](https://drive.google.com/drive/folders/1b3sTWCQk-0tKfQjEV8zdfQ-vrhP8rsID?usp=sharing)
+
+2. **Conduct descriptive analysis:** Summarize key variables (e.g., age, education, farm size, and more) or generate frequency tables and mean comparisons
+
+3. **Determine Factors Affecting Adoption:** Run the following regression models:
+
+    - OLS (Linear Probability Model) – for a basic understanding, though not ideal for binary outcomes
+    - Probit Model – uses cumulative normal distribution to estimate adoption probability
+    - Logit Model – uses logistic distribution for binary outcomes
+    
+4. **Identify Significant Variables:** Examine p-values and coefficients from each model. Identify which variables significantly influence adoption decisions.
+
+
+5. Interpret the coefficients of the significant variables affecting adoption
+
+
+

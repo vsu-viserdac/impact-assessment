@@ -47,7 +47,7 @@ website:
             text: "Workshop 2: use and application of Stata/R"
           - href: "05-L5-analytical-methods-adoption-studies.qmd"
             text: "Lecture 5: Analytical methods for adoption studies"
-          - href: ""
+          - href: "12-W2-adoption-studies.qmd"
             text: "Workshop 3: Adoption studies"
           - href: ""
             text: "Lecture 6: Cost-benefit analysis"
