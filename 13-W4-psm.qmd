@@ -1,0 +1,7 @@
+---
+title: "Workshop 4: propensity score matching (PSM)"
+---
+
+#### Materials
+
+1. **Access the Workshop Files:** Please download the required files from the shared folder: [workshop dataset](https://drive.google.com/drive/folders/1WguQD-Zp4UfYfo_zS7w8i7W9ewZGViiH?usp=sharing)
