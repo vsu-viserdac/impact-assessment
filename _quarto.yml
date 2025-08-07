@@ -43,7 +43,7 @@ website:
         contents:
           - href: "04-L4-intro-stata.qmd"
             text: "Lecture 4: Introduction to Stata/R software"
-          - href: ""
+          - href: "11-W2-application-stata.qmd"
             text: "Workshop 2: use and application of Stata/R"
           - href: "05-L5-analytical-methods-adoption-studies.qmd"
             text: "Lecture 5: Analytical methods for adoption studies"
