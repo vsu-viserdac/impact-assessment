@@ -2,7 +2,7 @@
 title: "Workshop 2: use and application of Stata and R"
 ---
 
-## Stata
+### Stata
 
 :::: {.callout-note}
 ## Materials
@@ -22,7 +22,7 @@ title: "Workshop 2: use and application of Stata and R"
 </iframe>
 
 
-## R programming
+### R programming
 
 
 :::: {.callout-note}

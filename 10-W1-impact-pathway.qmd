@@ -2,15 +2,19 @@
 title: "Workshop 1: Developing Impact Pathway"
 ---
 
-#### Materials:
+:::: {.callout-note}
+
+## Materials:
 
 -   Impact Pathway Template: [Google Slide Template Here](https://docs.google.com/presentation/d/1uXRE4CQ7ImtZhfyVaqw4VzGGQJ1q9WUz/edit?usp=sharing&ouid=109874235564209143956&rtpof=true&sd=true)
 
--   Discussion Prompts: Consider the following questions as you work:
+-   Discussion prompts: Consider the following questions as you work:
 
     -   Are the connections between each box logical and realistic?
     -   What assumptions are you making about the "Adoption Pathway"?
     -   How will you measure the changes in "Project Outcomes" and "Project Impacts"
+    
+::::
 
 <a href="https://docs.google.com/presentation/d/1uXRE4CQ7ImtZhfyVaqw4VzGGQJ1q9WUz/edit?usp=sharing&ouid=109874235564209143956&rtpof=true&sd=true" target="_blank" class="btn-slides">View template in new window</a>
 
@@ -31,4 +35,4 @@ title: "Workshop 1: Developing Impact Pathway"
     -   Project Outcomes: What are the short-to-medium-term changes that occur as a result of the project outputs being adopted? Focus on changes in Practice, Product, and Policy.
     -   Project Impacts: What are the long-term, broader effects of the project outcomes? Categorize these impacts as Economic, Social, and Environmental.
 
-4.  **Presentation of Workshop Outputs:**  A representative from each team will have 5-10 minutes to explain their group's pathway. The focus should be on clearly articulating the logical flow from outputs to impacts and justifying the connections between each stage.
+4.  **Presentation of Workshop Outputs:** A representative from each team will have 5-10 minutes to explain their group's pathway. The focus should be on clearly articulating the logical flow from outputs to impacts and justifying the connections between each stage.

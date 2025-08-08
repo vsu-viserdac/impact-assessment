@@ -21,7 +21,7 @@
     "href": "13-W4-psm.html",
     "title": "Workshop 4: propensity score matching (PSM)",
     "section": "",
-    "text": "Materials\n\nAccess the Workshop Files: Please download the required files from the shared folder: workshop dataset",
+    "text": "Materials\n\n\n\n\nAccess the Workshop Files: Please download the required files from the shared folder: workshop dataset",
     "crumbs": [
       "**Day 3 sessions**",
       "Workshop 4: propensity score matching (PSM)"
@@ -32,29 +32,7 @@
     "href": "11-W2-application-stata.html",
     "title": "Workshop 2: use and application of Stata and R",
     "section": "",
-    "text": "Materials\n\n\n\n\nDownload the Stata software. You can download the Stata installation files from the shared folder:\n\nStata software download folder\n\nAccess the Stata tutorial: A tutorial PDF is provided to help you get started with Stata’s interface, basic commands, and data operations.\n\n\n\nView PDF in new window",
-    "crumbs": [
-      "**Day 2 sessions**",
-      "Workshop 2: use and application of Stata/R"
-    ]
-  },
-  {
-    "objectID": "11-W2-application-stata.html#stata",
-    "href": "11-W2-application-stata.html#stata",
-    "title": "Workshop 2: use and application of Stata and R",
-    "section": "",
-    "text": "Materials\n\n\n\n\nDownload the Stata software. You can download the Stata installation files from the shared folder:\n\nStata software download folder\n\nAccess the Stata tutorial: A tutorial PDF is provided to help you get started with Stata’s interface, basic commands, and data operations.\n\n\n\nView PDF in new window",
-    "crumbs": [
-      "**Day 2 sessions**",
-      "Workshop 2: use and application of Stata/R"
-    ]
-  },
-  {
-    "objectID": "11-W2-application-stata.html#r-programming",
-    "href": "11-W2-application-stata.html#r-programming",
-    "title": "Workshop 2: use and application of Stata and R",
-    "section": "R programming",
-    "text": "R programming\n\n\n\n\n\n\nMaterials\n\n\n\n\nDownload R and RStudio: To get started, install both R and RStudio:\n\nDownload R\nDownload RStudio Desktop\nMake sure to select the version that matches your operating system (Windows, macOS, or Linux).\n\nTo help you install R and RStudio smoothly, watch one of the following tutorial videos below.\n\nHow to Install R and RStudio on Windows 11\nDownload and Install R and R Studio in Simple Steps\nHow to Install R and RStudio on Windows 10/11 [2024]\nInstalling R and R Studio | R for Data Analytics Series\nHow to download and install R and RStudio\nInstall R and R Studio | Learn R",
+    "text": "Stata\n\n\n\n\n\n\nMaterials\n\n\n\n\nDownload the Stata software. You can download the Stata installation files from the shared folder:\n\nStata software download folder\n\nAccess the Stata tutorial: A tutorial PDF is provided to help you get started with Stata’s interface, basic commands, and data operations.\n\n\n\nView PDF in new window\n\n\n\n\nR programming\n\n\n\n\n\n\nMaterials\n\n\n\n\nDownload R and RStudio: To get started, install both R and RStudio:\n\nDownload R\nDownload RStudio Desktop\nMake sure to select the version that matches your operating system (Windows, macOS, or Linux).\n\nTo help you install R and RStudio smoothly, watch one of the following tutorial videos below.\n\nHow to Install R and RStudio on Windows 11\nDownload and Install R and R Studio in Simple Steps\nHow to Install R and RStudio on Windows 10/11 [2024]\nInstalling R and R Studio | R for Data Analytics Series\nHow to download and install R and RStudio\nInstall R and R Studio | Learn R",
     "crumbs": [
       "**Day 2 sessions**",
       "Workshop 2: use and application of Stata/R"
@@ -175,7 +153,7 @@
     "href": "10-W1-impact-pathway.html",
     "title": "Workshop 1: Developing Impact Pathway",
     "section": "",
-    "text": "Materials:\n\nImpact Pathway Template: Google Slide Template Here\nDiscussion Prompts: Consider the following questions as you work:\n\nAre the connections between each box logical and realistic?\nWhat assumptions are you making about the “Adoption Pathway”?\nHow will you measure the changes in “Project Outcomes” and “Project Impacts”\n\n\nView template in new window\n\n\n\n\nInstructions:\n\nAccess the Template: You will be provided with a link to a Google Slides presentation. This presentation contains a pre-formatted template for the impact pathway.\nMake a Copy: Once you open the link, go to File &gt; Make a copy &gt; Entire presentation. Rename the file with your team or project name (e.g., “Team Alpha - Impact Pathway” or “Project X - Impact Pathway”). This will ensure you can edit your own version without affecting the original template.\nCollaborate with Your Group: Work with your assigned group to fill in each section of the impact pathway diagram. Use the template as your guide. The different sections are as follows:\n\nR.D.E. Project Outputs: What specific deliverables or results are produced directly by your project? Consider the categories of Technology, Capacity Development, and Policy.\nAdoption Pathway: How do the project outputs translate into actions or changes by your target audience? Think about the steps that lead from the outputs to the outcomes, such as Commercialization, Communication, Capacity Building, and Regulation.\nProject Outcomes: What are the short-to-medium-term changes that occur as a result of the project outputs being adopted? Focus on changes in Practice, Product, and Policy.\nProject Impacts: What are the long-term, broader effects of the project outcomes? Categorize these impacts as Economic, Social, and Environmental.\n\nPresentation of Workshop Outputs: A representative from each team will have 5-10 minutes to explain their group’s pathway. The focus should be on clearly articulating the logical flow from outputs to impacts and justifying the connections between each stage.",
+    "text": "Materials:\n\n\n\n\nImpact Pathway Template: Google Slide Template Here\nDiscussion prompts: Consider the following questions as you work:\n\nAre the connections between each box logical and realistic?\nWhat assumptions are you making about the “Adoption Pathway”?\nHow will you measure the changes in “Project Outcomes” and “Project Impacts”\n\n\n\n\nView template in new window\n\n\n\nInstructions:\n\nAccess the Template: You will be provided with a link to a Google Slides presentation. This presentation contains a pre-formatted template for the impact pathway.\nMake a Copy: Once you open the link, go to File &gt; Make a copy &gt; Entire presentation. Rename the file with your team or project name (e.g., “Team Alpha - Impact Pathway” or “Project X - Impact Pathway”). This will ensure you can edit your own version without affecting the original template.\nCollaborate with Your Group: Work with your assigned group to fill in each section of the impact pathway diagram. Use the template as your guide. The different sections are as follows:\n\nR.D.E. Project Outputs: What specific deliverables or results are produced directly by your project? Consider the categories of Technology, Capacity Development, and Policy.\nAdoption Pathway: How do the project outputs translate into actions or changes by your target audience? Think about the steps that lead from the outputs to the outcomes, such as Commercialization, Communication, Capacity Building, and Regulation.\nProject Outcomes: What are the short-to-medium-term changes that occur as a result of the project outputs being adopted? Focus on changes in Practice, Product, and Policy.\nProject Impacts: What are the long-term, broader effects of the project outcomes? Categorize these impacts as Economic, Social, and Environmental.\n\nPresentation of Workshop Outputs: A representative from each team will have 5-10 minutes to explain their group’s pathway. The focus should be on clearly articulating the logical flow from outputs to impacts and justifying the connections between each stage.",
     "crumbs": [
       "**Day 1 sessions**",
       "Workshop 1: Developing the impact pathway"
@@ -186,7 +164,7 @@
     "href": "12-W3-adoption-studies.html",
     "title": "Workshop 3: adoption studies",
     "section": "",
-    "text": "Materials:\n\nAccess the Workshop Files:Please download the required dataset from the shared folder. Workshop dataset\nConduct descriptive analysis: Summarize key variables (e.g., age, education, farm size, and more) or generate frequency tables and mean comparisons\nDetermine Factors Affecting Adoption: Run the following regression models:\n\nOLS (Linear Probability Model) – for a basic understanding, though not ideal for binary outcomes\nProbit Model – uses cumulative normal distribution to estimate adoption probability\nLogit Model – uses logistic distribution for binary outcomes\n\nIdentify Significant Variables: Examine p-values and coefficients from each model. Identify which variables significantly influence adoption decisions.\nInterpret the coefficients of the significant variables affecting adoption",
+    "text": "Materials:\n\n\n\n\nAccess the Workshop Files:Please download the required dataset from the shared folder. Workshop dataset\nConduct descriptive analysis: Summarize key variables (e.g., age, education, farm size, and more) or generate frequency tables and mean comparisons\nDetermine Factors Affecting Adoption: Run the following regression models:\n\nOLS (Linear Probability Model) – for a basic understanding, though not ideal for binary outcomes\nProbit Model – uses cumulative normal distribution to estimate adoption probability\nLogit Model – uses logistic distribution for binary outcomes\n\nIdentify Significant Variables: Examine p-values and coefficients from each model. Identify which variables significantly influence adoption decisions.\nInterpret the coefficients of the significant variables affecting adoption",
     "crumbs": [
       "**Day 2 sessions**",
       "Workshop 3: Adoption studies"
@@ -197,7 +175,7 @@
     "href": "14-W5-did.html",
     "title": "Workshop 5: Difference-in-difference (DiD)",
     "section": "",
-    "text": "Materials\n\nAccess the Workshop Files: Please download the required files from the shared folder: workshop dataset",
+    "text": "Materials\n\n\n\n\nAccess the Workshop Files: Please download the required files from the shared folder: workshop dataset",
     "crumbs": [
       "**Day 3 sessions**",
       "Workshop 5: Difference-in-differences (DiD)"
