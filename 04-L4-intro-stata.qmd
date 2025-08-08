@@ -4,19 +4,32 @@ title: "Lecture 4: Introduction to Stata/R software"
 
 #### Topic outline
 
-- Falimiarity with Stata/R software interface
-- Data importation
-- Basic data management, operation and descriptive analysis
-- Creating log files
+-   Falimiarity with Stata/R software interface
+-   Data importation
+-   Basic data management, operation and descriptive analysis
+-   Creating log files/ R scripts
+
+
+## Stata
 
 <a href="https://drive.google.com/file/d/142b3YXuffSRkV_pY9ZR8-KOdNqbzr5q2/view?usp=sharing" target="_blank" class="btn-slides">View presentation in new window</a>
 
+::: {.box style="padding-bottom:56.25%; position:relative; display:block; width:100%;"}
+<iframe src="https://drive.google.com/file/d/142b3YXuffSRkV_pY9ZR8-KOdNqbzr5q2/preview" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="autoplay">
+
+</iframe>
+:::
+
+<br>
+
+<br>
+
+## R programming
+
+<a href="https://vsu-viserdac.github.io/ie-lecture-materials/module-intro-r" target="_blank" class="btn-slides">View presentation in new window</a>
 
 ::: {.box style="padding-bottom:56.25%; position:relative; display:block; width:100%;"}
+<iframe src="https://vsu-viserdac.github.io/ie-lecture-materials/module-intro-r" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="autoplay">
 
-<iframe src="https://drive.google.com/file/d/142b3YXuffSRkV_pY9ZR8-KOdNqbzr5q2/preview" 
-        style="position:absolute; top:0; left:0; width:100%; height:100%;" 
-        frameborder="0" 
-        allow="autoplay"></iframe>
-
+</iframe>
 :::

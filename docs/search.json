@@ -65,7 +65,29 @@
     "href": "04-L4-intro-stata.html",
     "title": "Lecture 4: Introduction to Stata/R software",
     "section": "",
-    "text": "Topic outline\n\nFalimiarity with Stata/R software interface\nData importation\nBasic data management, operation and descriptive analysis\nCreating log files\n\nView presentation in new window",
+    "text": "Falimiarity with Stata/R software interface\nData importation\nBasic data management, operation and descriptive analysis\nCreating log files/ R scripts",
+    "crumbs": [
+      "**Day 2 sessions**",
+      "Lecture 4: Introduction to Stata/R software"
+    ]
+  },
+  {
+    "objectID": "04-L4-intro-stata.html#stata",
+    "href": "04-L4-intro-stata.html#stata",
+    "title": "Lecture 4: Introduction to Stata/R software",
+    "section": "Stata",
+    "text": "Stata\nView presentation in new window",
+    "crumbs": [
+      "**Day 2 sessions**",
+      "Lecture 4: Introduction to Stata/R software"
+    ]
+  },
+  {
+    "objectID": "04-L4-intro-stata.html#r-programming",
+    "href": "04-L4-intro-stata.html#r-programming",
+    "title": "Lecture 4: Introduction to Stata/R software",
+    "section": "R programming",
+    "text": "R programming\nView presentation in new window",
     "crumbs": [
       "**Day 2 sessions**",
       "Lecture 4: Introduction to Stata/R software"
