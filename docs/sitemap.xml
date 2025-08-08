@@ -2,63 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://econ148-analytical-stat-package.github.io/econ148-site/rp.html</loc>
-    <lastmod>2025-07-17T06:18:37.205Z</lastmod>
+    <lastmod>2025-08-08T15:45:04.405Z</lastmod>
   </url>
   <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/about.html</loc>
-    <lastmod>2025-07-17T00:21:00.901Z</lastmod>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/contact.html</loc>
+    <lastmod>2025-08-08T15:47:10.484Z</lastmod>
   </url>
   <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/13-W4-psm.html</loc>
-    <lastmod>2025-08-08T15:24:32.675Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/11-W2-application-stata.html</loc>
-    <lastmod>2025-08-08T15:23:11.219Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/09-L9-mixed-methods-ia.html</loc>
-    <lastmod>2025-07-17T05:30:40.005Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/07-L7-impact-estimation-psm.html</loc>
-    <lastmod>2025-07-17T04:21:27.140Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/04-L4-intro-stata.html</loc>
-    <lastmod>2025-08-08T14:49:51.778Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/02-L1-theory-of-change.html</loc>
-    <lastmod>2025-07-17T01:47:02.313Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/01-L1-intro-impact-assessment.html</loc>
-    <lastmod>2025-08-07T09:00:06.804Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/03-L3-dev-impact-pathways.html</loc>
-    <lastmod>2025-07-17T01:46:23.637Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/05-L5-analytical-methods-adoption-studies.html</loc>
-    <lastmod>2025-07-17T02:55:54.637Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/08-L8-impact-estimation-did.html</loc>
-    <lastmod>2025-07-17T05:17:24.533Z</lastmod>
-  </url>
-  <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/10-W1-impact-pathway.html</loc>
-    <lastmod>2025-08-08T15:22:29.029Z</lastmod>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/14-W5-did.html</loc>
+    <lastmod>2025-08-08T15:26:59.029Z</lastmod>
   </url>
   <url>
     <loc>https://econ148-analytical-stat-package.github.io/econ148-site/12-W3-adoption-studies.html</loc>
     <lastmod>2025-08-08T15:28:18.805Z</lastmod>
   </url>
   <url>
-    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/14-W5-did.html</loc>
-    <lastmod>2025-08-08T15:26:59.029Z</lastmod>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/10-W1-impact-pathway.html</loc>
+    <lastmod>2025-08-08T15:22:29.029Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/08-L8-impact-estimation-did.html</loc>
+    <lastmod>2025-07-17T05:17:24.533Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/05-L5-analytical-methods-adoption-studies.html</loc>
+    <lastmod>2025-07-17T02:55:54.637Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/03-L3-dev-impact-pathways.html</loc>
+    <lastmod>2025-07-17T01:46:23.637Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/01-L1-intro-impact-assessment.html</loc>
+    <lastmod>2025-08-07T09:00:06.804Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/02-L1-theory-of-change.html</loc>
+    <lastmod>2025-07-17T01:47:02.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/04-L4-intro-stata.html</loc>
+    <lastmod>2025-08-08T14:49:51.778Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/07-L7-impact-estimation-psm.html</loc>
+    <lastmod>2025-07-17T04:21:27.140Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/09-L9-mixed-methods-ia.html</loc>
+    <lastmod>2025-07-17T05:30:40.005Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/11-W2-application-stata.html</loc>
+    <lastmod>2025-08-08T15:23:11.219Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/13-W4-psm.html</loc>
+    <lastmod>2025-08-08T15:24:32.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ148-analytical-stat-package.github.io/econ148-site/about.html</loc>
+    <lastmod>2025-08-08T15:38:02.528Z</lastmod>
   </url>
   <url>
     <loc>https://econ148-analytical-stat-package.github.io/econ148-site/index.html</loc>
