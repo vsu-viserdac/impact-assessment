@@ -1,15 +1,61 @@
 ---
-title: "Workshop 2: use and application of Stata"
+title: "Workshop 2: use and application of Stata and R"
 ---
 
+## Stata
 
-#### Materials:
+:::: {.callout-note}
+## Materials
 
-1. **Download the Stata software**. You can download the Stata installation files from the shared folder: [Stata software download folder](https://drive.google.com/drive/folders/1VeVckQFw54D2H-IYYTjq1w-XsdLY3XVn?usp=sharing)
+1.  **Download the Stata software**. You can download the Stata installation files from the shared folder: 
 
-2. **Access the Stata tutorial**: A tutorial PDF is provided to help you get started with Stata’s interface, basic commands, and data operations.
+    - [Stata software download folder](https://drive.google.com/drive/folders/1VeVckQFw54D2H-IYYTjq1w-XsdLY3XVn?usp=sharing)
 
+2.  **Access the Stata tutorial**: A tutorial PDF is provided to help you get started with Stata’s interface, basic commands, and data operations.
+
+::::
 
 <a href="https://drive.google.com/file/d/1bP0GDmeDErrcCpTj3tqT0I3LsVv_K7mq/view?usp=sharing" target="_blank" class="btn-slides">View PDF in new window</a>
 
-<iframe src="https://drive.google.com/file/d/1bP0GDmeDErrcCpTj3tqT0I3LsVv_K7mq/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1bP0GDmeDErrcCpTj3tqT0I3LsVv_K7mq/preview" width="640" height="480" allow="autoplay">
+
+</iframe>
+
+
+## R programming
+
+
+:::: {.callout-note}
+## Materials
+
+1. Download R and RStudio: To get started, install both R and RStudio:
+
+    - [Download R](https://cran.r-project.org/)
+    - [Download RStudio Desktop](https://posit.co/download/rstudio-desktop/)
+    - Make sure to select the version that matches your operating system (Windows, macOS, or Linux).
+
+2. To help you install R and RStudio smoothly, watch one of the following tutorial videos below.
+
+    - [How to Install R and RStudio on Windows 11](https://www.youtube.com/watch?v=H9EBlFDGG4k)
+    - [Download and Install R and R Studio in Simple Steps](https://www.youtube.com/watch?v=Tb3R4GLJ45U)
+    - [How to Install R and RStudio on Windows 10/11 [2024]](https://www.youtube.com/watch?v=9SzKJH93t5o)
+    - [Installing R and R Studio | R for Data Analytics Series](https://www.youtube.com/watch?v=TsnGd6p9oTk&vl=en)
+    - [How to download and install R and RStudio](https://m.youtube.com/watch?v=TFGYlKvQEQ4&t=14s)
+    - [Install R and R Studio | Learn R](https://www.youtube.com/watch?v=tgPuB-iNww0)
+
+::::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

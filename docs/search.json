@@ -30,9 +30,31 @@
   {
     "objectID": "11-W2-application-stata.html",
     "href": "11-W2-application-stata.html",
-    "title": "Workshop 2: use and application of Stata",
+    "title": "Workshop 2: use and application of Stata and R",
     "section": "",
-    "text": "Materials:\n\nDownload the Stata software. You can download the Stata installation files from the shared folder: Stata software download folder\nAccess the Stata tutorial: A tutorial PDF is provided to help you get started with Stata’s interface, basic commands, and data operations.\n\nView PDF in new window",
+    "text": "Materials\n\n\n\n\nDownload the Stata software. You can download the Stata installation files from the shared folder:\n\nStata software download folder\n\nAccess the Stata tutorial: A tutorial PDF is provided to help you get started with Stata’s interface, basic commands, and data operations.\n\n\n\nView PDF in new window",
+    "crumbs": [
+      "**Day 2 sessions**",
+      "Workshop 2: use and application of Stata/R"
+    ]
+  },
+  {
+    "objectID": "11-W2-application-stata.html#stata",
+    "href": "11-W2-application-stata.html#stata",
+    "title": "Workshop 2: use and application of Stata and R",
+    "section": "",
+    "text": "Materials\n\n\n\n\nDownload the Stata software. You can download the Stata installation files from the shared folder:\n\nStata software download folder\n\nAccess the Stata tutorial: A tutorial PDF is provided to help you get started with Stata’s interface, basic commands, and data operations.\n\n\n\nView PDF in new window",
+    "crumbs": [
+      "**Day 2 sessions**",
+      "Workshop 2: use and application of Stata/R"
+    ]
+  },
+  {
+    "objectID": "11-W2-application-stata.html#r-programming",
+    "href": "11-W2-application-stata.html#r-programming",
+    "title": "Workshop 2: use and application of Stata and R",
+    "section": "R programming",
+    "text": "R programming\n\n\n\n\n\n\nMaterials\n\n\n\n\nDownload R and RStudio: To get started, install both R and RStudio:\n\nDownload R\nDownload RStudio Desktop\nMake sure to select the version that matches your operating system (Windows, macOS, or Linux).\n\nTo help you install R and RStudio smoothly, watch one of the following tutorial videos below.\n\nHow to Install R and RStudio on Windows 11\nDownload and Install R and R Studio in Simple Steps\nHow to Install R and RStudio on Windows 10/11 [2024]\nInstalling R and R Studio | R for Data Analytics Series\nHow to download and install R and RStudio\nInstall R and R Studio | Learn R",
     "crumbs": [
       "**Day 2 sessions**",
       "Workshop 2: use and application of Stata/R"
