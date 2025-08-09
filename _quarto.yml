@@ -29,6 +29,10 @@ website:
         text: "**Resource persons**"
       - href: "contact.qmd"
         text: "**Contact**"
+      - href: "pre-assess.qmd"
+        text: "**Pre-assessment**"
+      - href: "post-assess.qmd"
+        text: "**Post-assessment**"
       - section: "**Day 1 sessions**"
         contents:
           - href: "01-L1-intro-impact-assessment.qmd"
