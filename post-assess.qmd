@@ -9,7 +9,7 @@ title: ""
 <style>
   .responsive-form {
     position: relative;
-    padding-bottom: 150%; /* Adjust height ratio as needed */
+    padding-bottom: 150%;
     height: 0;
     overflow: hidden;
   }
