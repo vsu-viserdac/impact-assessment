@@ -2,10 +2,10 @@
 title: "Workshop 3: adoption studies"
 ---
 
-:::: {.callout-note}
+::: callout-note
 ## Materials:
 
-1.  **Access the Workshop Files:**Please download the required dataset from the shared folder. [Workshop dataset](https://drive.google.com/drive/folders/1b3sTWCQk-0tKfQjEV8zdfQ-vrhP8rsID?usp=sharing)
+1.  **Access the workshop files:**Please download the required dataset from the shared folder. [Workshop dataset](https://drive.google.com/drive/folders/1b3sTWCQk-0tKfQjEV8zdfQ-vrhP8rsID?usp=sharing)
 
 2.  **Conduct descriptive analysis:** Summarize key variables (e.g., age, education, farm size, and more) or generate frequency tables and mean comparisons
 
@@ -18,5 +18,4 @@ title: "Workshop 3: adoption studies"
 4.  **Identify Significant Variables:** Examine p-values and coefficients from each model. Identify which variables significantly influence adoption decisions.
 
 5.  Interpret the coefficients of the significant variables affecting adoption
-
-::::
+:::

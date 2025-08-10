@@ -5,10 +5,10 @@ project:
 website:
   page-navigation: true
   title: ""
-  favicon: "plot/econ148-hex-logo.png"
+  favicon: "plot/visedac-logo.png"
   
   repo-url: https://github.com/econ148-analytical-stat-package
-  site-url: https://econ148-analytical-stat-package.github.io/econ148-site/
+  site-url: https://vsu-viserdac.github.io/impact-assessment/
   
   sidebar:
     style: docked
