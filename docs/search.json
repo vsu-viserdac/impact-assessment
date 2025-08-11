@@ -10,14 +10,31 @@
     ]
   },
   {
+    "objectID": "rp.html#facilitators",
+    "href": "rp.html#facilitators",
+    "title": "",
+    "section": "Facilitators",
+    "text": "Facilitators",
+    "crumbs": [
+      "**Resource persons**"
+    ]
+  },
+  {
+    "objectID": "rp.html#contacts",
+    "href": "rp.html#contacts",
+    "title": "",
+    "section": "Contacts",
+    "text": "Contacts\nVisayas Socio-Economic Research and Data Analytics Center (ViSERDAC)\n1/F Department of Economics, Visayas State University\nVisca, Baybay City, Leyte, 6521, Philippines\n☎️ Phone: (053) 563 – 7751 Local 1122\n📧 Email: viserdac@vsu.edu.ph\n🌐 Website: viserdac.vsu.edu.ph\n🔵 Facebook: facebook.com/viserdac\nFor inquiries, collaborations, or access to technical support, feel free to reach out.\nWe’re here to support research sectors across the Visayas region.",
+    "crumbs": [
+      "**Resource persons**"
+    ]
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "",
     "section": "",
-    "text": "Visayas Socio-Economic Research and Data Analytics Center (ViSERDAC)\n1/F Department of Economics, Visayas State University\nVisca, Baybay City, Leyte, 6521, Philippines\n☎️ Phone: (053) 563 – 7751\n📧 Email: viserdac@vsu.edu.ph\n🌐 Website: viserdac.vsu.edu.ph\n🔵 Facebook: facebook.com/viserdac\nFor inquiries, collaborations, or access to technical support, feel free to reach out.\nWe’re here to support research sectors across the Visayas region.",
-    "crumbs": [
-      "**Contact**"
-    ]
+    "text": "Visayas Socio-Economic Research and Data Analytics Center (ViSERDAC)\n1/F Department of Economics, Visayas State University\nVisca, Baybay City, Leyte, 6521, Philippines\n☎️ Phone: (053) 563 – 7751\n📧 Email: viserdac@vsu.edu.ph\n🌐 Website: viserdac.vsu.edu.ph\n🔵 Facebook: facebook.com/viserdac\nFor inquiries, collaborations, or access to technical support, feel free to reach out.\nWe’re here to support research sectors across the Visayas region."
   },
   {
     "objectID": "14-W5-did.html",
@@ -53,58 +70,25 @@
     ]
   },
   {
-    "objectID": "08-L8-impact-estimation-did.html",
-    "href": "08-L8-impact-estimation-did.html",
-    "title": "Lecture 8: Impact Estimation using Difference-in-Difference (DiD) method",
+    "objectID": "09-L09-msc-technique.html",
+    "href": "09-L09-msc-technique.html",
+    "title": "Lecture 9: Mixed Methods Approaches to Impact Assessment",
     "section": "",
-    "text": "Topic outline\n\nFramework of DiD\nAssumptions of DiD\nData requirements for DiD\nRegression specifications for DiD\nDiD applications\n\nView presentation in new window",
+    "text": "Topic outline\n\nIntro and rationale\nConcepts of MSC\nApplications of MSC\nMSC processes\n\nView presentation in new window",
     "crumbs": [
       "**Day 3 sessions**",
-      "Lecture 8: Impact estimation using DiD method"
+      "Lecture 9: Most significant change (MSC) Technique"
     ]
   },
   {
-    "objectID": "05-L5-analytical-methods-adoption-studies.html",
-    "href": "05-L5-analytical-methods-adoption-studies.html",
-    "title": "Lecture 5: Analytical Methods for Adoption Studies",
+    "objectID": "07-L7-impact-estimation-psm.html",
+    "href": "07-L7-impact-estimation-psm.html",
+    "title": "Lecture 7: Impact estimation using Propensity Score Matching (PSM)",
     "section": "",
-    "text": "Topic outline\n\nOveriew\nFocus on adoption studies\nLimited Dependent Variables (LIMDEP) models\nApplication\n\nView presentation in new window",
+    "text": "Topic outline\n\nWhen to use matching\nBasic mechanics of matching\nThe curse of dimensionality\nImplementing PSM\nPSM examples\n\nView presentation in new window",
     "crumbs": [
-      "**Day 2 sessions**",
-      "Lecture 5: Analytical methods for adoption studies"
-    ]
-  },
-  {
-    "objectID": "03-L3-dev-impact-pathways.html",
-    "href": "03-L3-dev-impact-pathways.html",
-    "title": "Lecture 3: Development of impact pathways and adoption studies",
-    "section": "",
-    "text": "Topic outline\n\nIntroduction\nOutcome-based approach\nDeveloping a Theory of Change (ToC)\nModels and frameworks for ToC\nImpact pathways\n\nView presentation in new window",
-    "crumbs": [
-      "**Day 1 sessions**",
-      "Lecture 3: Development of impact pathway and adoption studies"
-    ]
-  },
-  {
-    "objectID": "01-L1-intro-impact-assessment.html",
-    "href": "01-L1-intro-impact-assessment.html",
-    "title": "Lecture 1: Introduction to Impact Assessment",
-    "section": "",
-    "text": "Topic outline\n\nPre-assessment, overview and introduction of socio-econ sector\nIntroduction\nMonitoring and evaluation\nExample of impact estimation\nSteps and criteria in the assessment\nDimensions of impact\nBasic and advanced approaches\n\nView presentation in new window",
-    "crumbs": [
-      "**Day 1 sessions**",
-      "Lecture 1: Introduction to Impact Assessment"
-    ]
-  },
-  {
-    "objectID": "02-L1-theory-of-change.html",
-    "href": "02-L1-theory-of-change.html",
-    "title": "Lecture 2: Validating Theory of Change",
-    "section": "",
-    "text": "Topic outline\n\nIntroduction\nOutcome-based approach\nDeveloping a Theory of Change (ToC)\nModels and frameworks for ToC\nImpact pathways\n\nView presentation in new window",
-    "crumbs": [
-      "**Day 1 sessions**",
-      "Lecture 2: Validating theory of change"
+      "**Day 3 sessions**",
+      "Lecture 7: Impact estimation using PSM"
     ]
   },
   {
@@ -141,25 +125,69 @@
     ]
   },
   {
-    "objectID": "07-L7-impact-estimation-psm.html",
-    "href": "07-L7-impact-estimation-psm.html",
-    "title": "Lecture 7: Impact estimation using Propensity Score Matching (PSM)",
+    "objectID": "02-L1-theory-of-change.html",
+    "href": "02-L1-theory-of-change.html",
+    "title": "Lecture 2: Validating Theory of Change",
     "section": "",
-    "text": "Topic outline\n\nWhen to use matching\nBasic mechanics of matching\nThe curse of dimensionality\nImplementing PSM\nPSM examples\n\nView presentation in new window",
+    "text": "Topic outline\n\nIntroduction\nOutcome-based approach\nDeveloping a Theory of Change (ToC)\nModels and frameworks for ToC\nImpact pathways\n\nView presentation in new window",
     "crumbs": [
-      "**Day 3 sessions**",
-      "Lecture 7: Impact estimation using PSM"
+      "**Day 1 sessions**",
+      "Lecture 2: Validating theory of change"
     ]
   },
   {
-    "objectID": "09-L9-mixed-methods-ia.html",
-    "href": "09-L9-mixed-methods-ia.html",
+    "objectID": "01-L1-intro-impact-assessment.html",
+    "href": "01-L1-intro-impact-assessment.html",
+    "title": "Lecture 1: Introduction to Impact Assessment",
+    "section": "",
+    "text": "Topic outline\n\nPre-assessment, overview and introduction of socio-econ sector\nIntroduction\nMonitoring and evaluation\nExample of impact estimation\nSteps and criteria in the assessment\nDimensions of impact\nBasic and advanced approaches\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 1 sessions**",
+      "Lecture 1: Introduction to Impact Assessment"
+    ]
+  },
+  {
+    "objectID": "03-L3-dev-impact-pathways.html",
+    "href": "03-L3-dev-impact-pathways.html",
+    "title": "Lecture 3: Development of impact pathways and adoption studies",
+    "section": "",
+    "text": "Topic outline\n\nIntroduction\nOutcome-based approach\nDeveloping a Theory of Change (ToC)\nModels and frameworks for ToC\nImpact pathways\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 1 sessions**",
+      "Lecture 3: Development of impact pathway and adoption studies"
+    ]
+  },
+  {
+    "objectID": "05-L5-analytical-methods-adoption-studies.html",
+    "href": "05-L5-analytical-methods-adoption-studies.html",
+    "title": "Lecture 5: Analytical Methods for Adoption Studies",
+    "section": "",
+    "text": "Topic outline\n\nOveriew\nFocus on adoption studies\nLimited Dependent Variables (LIMDEP) models\nApplication\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 2 sessions**",
+      "Lecture 5: Analytical methods for adoption studies"
+    ]
+  },
+  {
+    "objectID": "08-L8-impact-estimation-did.html",
+    "href": "08-L8-impact-estimation-did.html",
+    "title": "Lecture 8: Impact Estimation using Difference-in-Difference (DiD) method",
+    "section": "",
+    "text": "Topic outline\n\nFramework of DiD\nAssumptions of DiD\nData requirements for DiD\nRegression specifications for DiD\nDiD applications\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 3 sessions**",
+      "Lecture 8: Impact estimation using DiD method"
+    ]
+  },
+  {
+    "objectID": "10-L10-mixed-methods-ia.html",
+    "href": "10-L10-mixed-methods-ia.html",
     "title": "Lecture 9: Mixed Methods Approaches to Impact Assessment",
     "section": "",
     "text": "Topic outline\n\nDevelopment of Mixed-Method Approaches\nPlanning Mixed-Methods IA\nThe MMAIA Framework\nApplication examples\nCommunicating results\n\nView presentation in new window",
     "crumbs": [
       "**Day 3 sessions**",
-      "Lecture 9: Mixed methods approach to IA"
+      "Lecture 10: Mixed methods approach to IA"
     ]
   },
   {

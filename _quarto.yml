@@ -5,9 +5,9 @@ project:
 website:
   page-navigation: true
   title: ""
-  favicon: "plot/visedac-logo.png"
+  favicon: "plot/viserdac-logo.png"
   
-  repo-url: https://github.com/econ148-analytical-stat-package
+  repo-url: https://github.com/vsu-viserdac/impact-assessment
   site-url: https://vsu-viserdac.github.io/impact-assessment/
   
   sidebar:
@@ -27,8 +27,6 @@ website:
         text: "**Home**"
       - href: "rp.qmd"
         text: "**Resource persons**"
-      - href: "contact.qmd"
-        text: "**Contact**"
       - href: "pre-assess.qmd"
         text: "**Pre-assessment**"
       - href: "post-assess.qmd"
@@ -69,8 +67,10 @@ website:
             text: "Lecture 8: Impact estimation using DiD method"
           - href: "14-W5-did.qmd"
             text: "Workshop 5: Difference-in-differences (DiD)"
-          - href: "09-L9-mixed-methods-ia.qmd"
-            text: "Lecture 9: Mixed methods approach to IA"
+          - href: "09-L09-msc-technique.qmd"
+            text: "Lecture 9: Most significant change (MSC) Technique"
+          - href: "10-L10-mixed-methods-ia.qmd"
+            text: "Lecture 10: Mixed methods approach to IA"
       
 format:
   html:
