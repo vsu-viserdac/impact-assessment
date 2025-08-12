@@ -39,4 +39,7 @@ title: "Workshop 2: use and application of Stata and R"
     -   [Installing R and R Studio \| R for Data Analytics Series](https://www.youtube.com/watch?v=TsnGd6p9oTk&vl=en)
     -   [How to download and install R and RStudio](https://m.youtube.com/watch?v=TFGYlKvQEQ4&t=14s)
     -   [Install R and R Studio \| Learn R](https://www.youtube.com/watch?v=tgPuB-iNww0)
+    
+3. Download the R project folder. We will be using this one for the entire R sessions.
+    -   [R project folder](https://drive.google.com/drive/folders/1-mlYjCtICiyD4NLFp1-rMxxKf2Yxj53i?usp=sharing)
 :::
