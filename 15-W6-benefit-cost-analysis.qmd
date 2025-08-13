@@ -1,0 +1,18 @@
+---
+title: "Workshop 6: Cost-Benefit Analysis (CBA)"
+---
+
+:::: {.callout-note}
+## Materials
+
+1.  **Access the workshop file:** Please download the required files from the shared folder: [workshop excel template](https://docs.google.com/spreadsheets/d/1JxYg5QoihUyjjDrCvLUX2tv6tQeVuFs9/edit?usp=sharing&ouid=109874235564209143956&rtpof=true&sd=true)
+
+2. ⚠️ Important: Do not edit directly on the online spreadsheet. Instead, click **File** → **Download** → **Microsoft Excel (.xlsx)** to work on your own copy.
+::::
+
+<a href="https://drive.google.com/file/d/1SLTZ54g4xeJbkdfEb54fOkoo-ezUo5Ou/view?usp=sharing" target="_blank" class="btn-slides">View and download template in new window</a>
+
+::: {.box style="padding-bottom:56.25%; position:relative; display:block; width:100%;"}
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4j2X0paGRkC2OdnMJiKL33-mQHRlCFu8gMMcjnQU2y-qgqql4KJzZctxQkzMNxA/pubhtml?widget=true&amp;headers=false" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0"></iframe>
+
+:::

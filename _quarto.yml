@@ -53,8 +53,10 @@ website:
             text: "Lecture 5: Analytical methods for adoption studies"
           - href: "12-W3-adoption-studies.qmd"
             text: "Workshop 3: Adoption studies"
-          - href: ""
+          - href: "06-L6-bca.qmd"
             text: "Lecture 6: Cost-benefit analysis"
+          - href: "15-W6-benefit-cost-analysis.qmd"
+            text: "Workshop 6: Cost-benefit analysis"
             
       
       - section: "**Day 3 sessions**"

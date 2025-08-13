@@ -37,58 +37,69 @@
     "text": "Visayas Socio-Economic Research and Data Analytics Center (ViSERDAC)\n1/F Department of Economics, Visayas State University\nVisca, Baybay City, Leyte, 6521, Philippines\n☎️ Phone: (053) 563 – 7751\n📧 Email: viserdac@vsu.edu.ph\n🌐 Website: viserdac.vsu.edu.ph\n🔵 Facebook: facebook.com/viserdac\nFor inquiries, collaborations, or access to technical support, feel free to reach out.\nWe’re here to support research sectors across the Visayas region."
   },
   {
-    "objectID": "14-W5-did.html",
-    "href": "14-W5-did.html",
-    "title": "Workshop 5: Difference-in-difference (DiD)",
+    "objectID": "15-W6-benefit-cost-analysis.html",
+    "href": "15-W6-benefit-cost-analysis.html",
+    "title": "Workshop 6: Cost-Benefit Analysis (CBA)",
+    "section": "",
+    "text": "Materials\n\n\n\n\nAccess the workshop file: Please download the required files from the shared folder: workshop excel template\n⚠️ Important: Do not edit directly on the online spreadsheet. Instead, click File → Download → Microsoft Excel (.xlsx) to work on your own copy.\n\n\n\nView and download template in new window",
+    "crumbs": [
+      "**Day 2 sessions**",
+      "Workshop 6: Cost-benefit analysis"
+    ]
+  },
+  {
+    "objectID": "13-W4-psm.html",
+    "href": "13-W4-psm.html",
+    "title": "Workshop 4: propensity score matching (PSM)",
     "section": "",
     "text": "Materials\n\n\n\n\nAccess the Workshop Files: Please download the required files from the shared folder: workshop dataset",
     "crumbs": [
       "**Day 3 sessions**",
-      "Workshop 5: Difference-in-differences (DiD)"
+      "Workshop 4: propensity score matching (PSM)"
     ]
   },
   {
-    "objectID": "12-W3-adoption-studies.html",
-    "href": "12-W3-adoption-studies.html",
-    "title": "Workshop 3: adoption studies",
+    "objectID": "11-W2-application-stata.html",
+    "href": "11-W2-application-stata.html",
+    "title": "Workshop 2: use and application of Stata and R",
     "section": "",
-    "text": "Materials:\n\n\n\n\nAccess the workshop files:Please download the required dataset from the shared folder. Workshop dataset\nConduct descriptive analysis: Summarize key variables (e.g., age, education, farm size, and more) or generate frequency tables and mean comparisons\nDetermine Factors Affecting Adoption: Run the following regression models:\n\nOLS (Linear Probability Model) – for a basic understanding, though not ideal for binary outcomes\nProbit Model – uses cumulative normal distribution to estimate adoption probability\nLogit Model – uses logistic distribution for binary outcomes\n\nIdentify Significant Variables: Examine p-values and coefficients from each model. Identify which variables significantly influence adoption decisions.\nInterpret the coefficients of the significant variables affecting adoption",
+    "text": "Stata\n\n\n\n\n\n\nMaterials\n\n\n\n\nDownload the Stata software. You can download the Stata installation files from the shared folder:\n\nStata software download folder\n\nAccess the Stata tutorial: A tutorial PDF is provided to help you get started with Stata’s interface, basic commands, and data operations.\n\n\n\nView PDF in new window\n\n\n\n\nR programming\n\n\n\n\n\n\nMaterials\n\n\n\n\nDownload R and RStudio: To get started, install both R and RStudio:\n\nDownload R\nDownload RStudio Desktop\nMake sure to select the version that matches your operating system (Windows, macOS, or Linux).\n\nTo help you install R and RStudio smoothly, watch one of the following tutorial videos below.\n\nHow to Install R and RStudio on Windows 11\nDownload and Install R and R Studio in Simple Steps\nHow to Install R and RStudio on Windows 10/11 [2024]\nInstalling R and R Studio | R for Data Analytics Series\nHow to download and install R and RStudio\nInstall R and R Studio | Learn R\n\nDownload the R project folder. We will be using this one for the entire R sessions.\n\nR project folder",
     "crumbs": [
       "**Day 2 sessions**",
-      "Workshop 3: Adoption studies"
+      "Workshop 2: use and application of Stata/R"
     ]
   },
   {
-    "objectID": "10-W1-impact-pathway.html",
-    "href": "10-W1-impact-pathway.html",
-    "title": "Workshop 1: Developing Impact Pathway",
-    "section": "",
-    "text": "Materials:\n\n\n\n\nImpact Pathway Template: Google Slide Template Here\nDiscussion prompts: Consider the following questions as you work:\n\nAre the connections between each box logical and realistic?\nWhat assumptions are you making about the “Adoption Pathway”?\nHow will you measure the changes in “Project Outcomes” and “Project Impacts”\n\n\n\n\nView template in new window Submit your output here\n\n\n\nInstructions:\n\nAccess the Template: You will be provided with a link to a Google Slides presentation. This presentation contains a pre-formatted template for the impact pathway.\nMake a Copy: Once you open the link, go to File &gt; Make a copy &gt; Entire presentation. Rename the file with your team or project name (e.g., “Team Alpha - Impact Pathway” or “Project X - Impact Pathway”). This will ensure you can edit your own version without affecting the original template.\nCollaborate with Your Group: Work with your assigned group to fill in each section of the impact pathway diagram. Use the template as your guide. The different sections are as follows:\n\nR.D.E. Project Outputs: What specific deliverables or results are produced directly by your project? Consider the categories of Technology, Capacity Development, and Policy.\nAdoption Pathway: How do the project outputs translate into actions or changes by your target audience? Think about the steps that lead from the outputs to the outcomes, such as Commercialization, Communication, Capacity Building, and Regulation.\nProject Outcomes: What are the short-to-medium-term changes that occur as a result of the project outputs being adopted? Focus on changes in Practice, Product, and Policy.\nProject Impacts: What are the long-term, broader effects of the project outcomes? Categorize these impacts as Economic, Social, and Environmental.\n\nPresentation of Workshop Outputs: A representative from each team will have 5-10 minutes to explain their group’s pathway. The focus should be on clearly articulating the logical flow from outputs to impacts and justifying the connections between each stage.",
-    "crumbs": [
-      "**Day 1 sessions**",
-      "Workshop 1: Developing the impact pathway"
-    ]
-  },
-  {
-    "objectID": "09-L09-msc-technique.html",
-    "href": "09-L09-msc-technique.html",
+    "objectID": "10-L10-mixed-methods-ia.html",
+    "href": "10-L10-mixed-methods-ia.html",
     "title": "Lecture 9: Mixed Methods Approaches to Impact Assessment",
     "section": "",
-    "text": "Topic outline\n\nIntro and rationale\nConcepts of MSC\nApplications of MSC\nMSC processes\n\nView presentation in new window",
+    "text": "Topic outline\n\nDevelopment of Mixed-Method Approaches\nPlanning Mixed-Methods IA\nThe MMAIA Framework\nApplication examples\nCommunicating results\n\nView presentation in new window",
     "crumbs": [
       "**Day 3 sessions**",
-      "Lecture 9: Most significant change (MSC) Technique"
+      "Lecture 10: Mixed methods approach to IA"
     ]
   },
   {
-    "objectID": "07-L7-impact-estimation-psm.html",
-    "href": "07-L7-impact-estimation-psm.html",
-    "title": "Lecture 7: Impact estimation using Propensity Score Matching (PSM)",
+    "objectID": "08-L8-impact-estimation-did.html",
+    "href": "08-L8-impact-estimation-did.html",
+    "title": "Lecture 8: Impact Estimation using Difference-in-Difference (DiD) method",
     "section": "",
-    "text": "Topic outline\n\nWhen to use matching\nBasic mechanics of matching\nThe curse of dimensionality\nImplementing PSM\nPSM examples\n\nView presentation in new window",
+    "text": "Topic outline\n\nFramework of DiD\nAssumptions of DiD\nData requirements for DiD\nRegression specifications for DiD\nDiD applications\n\nView presentation in new window",
     "crumbs": [
       "**Day 3 sessions**",
-      "Lecture 7: Impact estimation using PSM"
+      "Lecture 8: Impact estimation using DiD method"
+    ]
+  },
+  {
+    "objectID": "06-L6-bca.html",
+    "href": "06-L6-bca.html",
+    "title": "Lecture 6: Cost-benefit analysis",
+    "section": "",
+    "text": "Topic outline\n\nImportance of Cost – Benefit Analysis in the context of Impact Assessment\nExamples of Costs and Benefits\nNet Present Value (NPV): present value of benefits versus investment costs\nInternal Rate of Return (IRR): the rate of return at which the investment value is equal to the value of the benefit flow\nBenefit-Cost Ratio: ratio of the present value of the benefits to the present value of the total investment costs (including implementation costs)\nSensitivity Analysis: the process of generating alternate cases to check the effect of changes in essential variables\nScenario Analysis: the formulation of various scenarios (best, base, worst) to review CBA metrics\n\nView presentation in new window",
+    "crumbs": [
+      "**Day 2 sessions**",
+      "Lecture 6: Cost-benefit analysis"
     ]
   },
   {
@@ -169,47 +180,58 @@
     ]
   },
   {
-    "objectID": "08-L8-impact-estimation-did.html",
-    "href": "08-L8-impact-estimation-did.html",
-    "title": "Lecture 8: Impact Estimation using Difference-in-Difference (DiD) method",
+    "objectID": "07-L7-impact-estimation-psm.html",
+    "href": "07-L7-impact-estimation-psm.html",
+    "title": "Lecture 7: Impact estimation using Propensity Score Matching (PSM)",
     "section": "",
-    "text": "Topic outline\n\nFramework of DiD\nAssumptions of DiD\nData requirements for DiD\nRegression specifications for DiD\nDiD applications\n\nView presentation in new window",
+    "text": "Topic outline\n\nWhen to use matching\nBasic mechanics of matching\nThe curse of dimensionality\nImplementing PSM\nPSM examples\n\nView presentation in new window",
     "crumbs": [
       "**Day 3 sessions**",
-      "Lecture 8: Impact estimation using DiD method"
+      "Lecture 7: Impact estimation using PSM"
     ]
   },
   {
-    "objectID": "10-L10-mixed-methods-ia.html",
-    "href": "10-L10-mixed-methods-ia.html",
+    "objectID": "09-L09-msc-technique.html",
+    "href": "09-L09-msc-technique.html",
     "title": "Lecture 9: Mixed Methods Approaches to Impact Assessment",
     "section": "",
-    "text": "Topic outline\n\nDevelopment of Mixed-Method Approaches\nPlanning Mixed-Methods IA\nThe MMAIA Framework\nApplication examples\nCommunicating results\n\nView presentation in new window",
+    "text": "Topic outline\n\nIntro and rationale\nConcepts of MSC\nApplications of MSC\nMSC processes\n\nView presentation in new window",
     "crumbs": [
       "**Day 3 sessions**",
-      "Lecture 10: Mixed methods approach to IA"
+      "Lecture 9: Most significant change (MSC) Technique"
     ]
   },
   {
-    "objectID": "11-W2-application-stata.html",
-    "href": "11-W2-application-stata.html",
-    "title": "Workshop 2: use and application of Stata and R",
+    "objectID": "10-W1-impact-pathway.html",
+    "href": "10-W1-impact-pathway.html",
+    "title": "Workshop 1: Developing Impact Pathway",
     "section": "",
-    "text": "Stata\n\n\n\n\n\n\nMaterials\n\n\n\n\nDownload the Stata software. You can download the Stata installation files from the shared folder:\n\nStata software download folder\n\nAccess the Stata tutorial: A tutorial PDF is provided to help you get started with Stata’s interface, basic commands, and data operations.\n\n\n\nView PDF in new window\n\n\n\n\nR programming\n\n\n\n\n\n\nMaterials\n\n\n\n\nDownload R and RStudio: To get started, install both R and RStudio:\n\nDownload R\nDownload RStudio Desktop\nMake sure to select the version that matches your operating system (Windows, macOS, or Linux).\n\nTo help you install R and RStudio smoothly, watch one of the following tutorial videos below.\n\nHow to Install R and RStudio on Windows 11\nDownload and Install R and R Studio in Simple Steps\nHow to Install R and RStudio on Windows 10/11 [2024]\nInstalling R and R Studio | R for Data Analytics Series\nHow to download and install R and RStudio\nInstall R and R Studio | Learn R\n\nDownload the R project folder. We will be using this one for the entire R sessions.\n\nR project folder",
+    "text": "Materials:\n\n\n\n\nImpact Pathway Template: Google Slide Template Here\nDiscussion prompts: Consider the following questions as you work:\n\nAre the connections between each box logical and realistic?\nWhat assumptions are you making about the “Adoption Pathway”?\nHow will you measure the changes in “Project Outcomes” and “Project Impacts”\n\n\n\n\nView template in new window Submit your output here\n\n\n\nInstructions:\n\nAccess the Template: You will be provided with a link to a Google Slides presentation. This presentation contains a pre-formatted template for the impact pathway.\nMake a Copy: Once you open the link, go to File &gt; Make a copy &gt; Entire presentation. Rename the file with your team or project name (e.g., “Team Alpha - Impact Pathway” or “Project X - Impact Pathway”). This will ensure you can edit your own version without affecting the original template.\nCollaborate with Your Group: Work with your assigned group to fill in each section of the impact pathway diagram. Use the template as your guide. The different sections are as follows:\n\nR.D.E. Project Outputs: What specific deliverables or results are produced directly by your project? Consider the categories of Technology, Capacity Development, and Policy.\nAdoption Pathway: How do the project outputs translate into actions or changes by your target audience? Think about the steps that lead from the outputs to the outcomes, such as Commercialization, Communication, Capacity Building, and Regulation.\nProject Outcomes: What are the short-to-medium-term changes that occur as a result of the project outputs being adopted? Focus on changes in Practice, Product, and Policy.\nProject Impacts: What are the long-term, broader effects of the project outcomes? Categorize these impacts as Economic, Social, and Environmental.\n\nPresentation of Workshop Outputs: A representative from each team will have 5-10 minutes to explain their group’s pathway. The focus should be on clearly articulating the logical flow from outputs to impacts and justifying the connections between each stage.",
+    "crumbs": [
+      "**Day 1 sessions**",
+      "Workshop 1: Developing the impact pathway"
+    ]
+  },
+  {
+    "objectID": "12-W3-adoption-studies.html",
+    "href": "12-W3-adoption-studies.html",
+    "title": "Workshop 3: adoption studies",
+    "section": "",
+    "text": "Materials:\n\n\n\n\nAccess the workshop files:Please download the required dataset from the shared folder. Workshop dataset\nConduct descriptive analysis: Summarize key variables (e.g., age, education, farm size, and more) or generate frequency tables and mean comparisons\nDetermine Factors Affecting Adoption: Run the following regression models:\n\nOLS (Linear Probability Model) – for a basic understanding, though not ideal for binary outcomes\nProbit Model – uses cumulative normal distribution to estimate adoption probability\nLogit Model – uses logistic distribution for binary outcomes\n\nIdentify Significant Variables: Examine p-values and coefficients from each model. Identify which variables significantly influence adoption decisions.\nInterpret the coefficients of the significant variables affecting adoption",
     "crumbs": [
       "**Day 2 sessions**",
-      "Workshop 2: use and application of Stata/R"
+      "Workshop 3: Adoption studies"
     ]
   },
   {
-    "objectID": "13-W4-psm.html",
-    "href": "13-W4-psm.html",
-    "title": "Workshop 4: propensity score matching (PSM)",
+    "objectID": "14-W5-did.html",
+    "href": "14-W5-did.html",
+    "title": "Workshop 5: Difference-in-difference (DiD)",
     "section": "",
     "text": "Materials\n\n\n\n\nAccess the Workshop Files: Please download the required files from the shared folder: workshop dataset",
     "crumbs": [
       "**Day 3 sessions**",
-      "Workshop 4: propensity score matching (PSM)"
+      "Workshop 5: Difference-in-differences (DiD)"
     ]
   },
   {

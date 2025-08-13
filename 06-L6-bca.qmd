@@ -1,0 +1,25 @@
+---
+title: "Lecture 6: Cost-benefit analysis"
+---
+
+#### Topic outline
+
+- Importance of Cost – Benefit Analysis in the context of Impact Assessment
+- Examples of Costs and Benefits
+- Net Present Value (NPV): present value of benefits versus investment costs
+- Internal Rate of Return (IRR): the rate of return at which the investment value is
+equal to the value of the benefit flow
+- Benefit-Cost Ratio: ratio of the present value of the benefits to the present value
+of the total investment costs (including implementation costs)
+- Sensitivity Analysis: the process of generating alternate cases to check the
+effect of changes in essential variables
+- Scenario Analysis: the formulation of various scenarios (best, base, worst) to
+review CBA metrics
+
+<a href="https://drive.google.com/file/d/1SLTZ54g4xeJbkdfEb54fOkoo-ezUo5Ou/view?usp=sharing" target="_blank" class="btn-slides">View presentation in new window</a>
+
+::: {.box style="padding-bottom:56.25%; position:relative; display:block; width:100%;"}
+<iframe src="https://drive.google.com/file/d/1SLTZ54g4xeJbkdfEb54fOkoo-ezUo5Ou/preview" style="position:absolute; top:0; left:0; width:100%; height:100%;" frameborder="0" allow="autoplay">
+
+</iframe>
+:::
