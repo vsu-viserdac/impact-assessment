@@ -41,7 +41,7 @@
     "href": "15-W6-benefit-cost-analysis.html",
     "title": "Workshop 6: Cost-Benefit Analysis (CBA)",
     "section": "",
-    "text": "Materials\n\n\n\n\nAccess the workshop file: Please download the required files from the shared folder: workshop excel template\n⚠️ Important: Do not edit directly on the online spreadsheet. Instead, click File → Download → Microsoft Excel (.xlsx) to work on your own copy.\n\n\n\nView and download template in new window",
+    "text": "Materials\n\n\n\n\nAccess the workshop file: Please download the required files from the shared folder: workshop excel template\n⚠️ Important: Do not edit directly on the online spreadsheet. Instead, click File → Download → Microsoft Excel (.xlsx) to work on your own copy.\n\n\n\nView and download template in new window\n\n\n\n\n\n\n\n\n\n\nOutput submission\n\n\n\n\nUpload your completed “Cost-Benefit Analysis” excel file.\n\nUpload your output here",
     "crumbs": [
       "**Day 2 sessions**",
       "Workshop 6: Cost-benefit analysis"
@@ -217,7 +217,7 @@
     "href": "12-W3-adoption-studies.html",
     "title": "Workshop 3: adoption studies",
     "section": "",
-    "text": "Materials:\n\n\n\n\nAccess the workshop files:Please download the required dataset from the shared folder. Workshop dataset\nConduct descriptive analysis: Summarize key variables (e.g., age, education, farm size, and more) or generate frequency tables and mean comparisons\nDetermine Factors Affecting Adoption: Run the following regression models:\n\nOLS (Linear Probability Model) – for a basic understanding, though not ideal for binary outcomes\nProbit Model – uses cumulative normal distribution to estimate adoption probability\nLogit Model – uses logistic distribution for binary outcomes\n\nIdentify Significant Variables: Examine p-values and coefficients from each model. Identify which variables significantly influence adoption decisions.\nInterpret the coefficients of the significant variables affecting adoption",
+    "text": "Materials:\n\n\n\n\nAccess the workshop files:Please download the required dataset from the shared folder. Workshop dataset\nConduct descriptive analysis: Summarize key variables (e.g., age, education, farm size, and more) or generate frequency tables and mean comparisons\nDetermine Factors Affecting Adoption: Run the following regression models:\n\nOLS (Linear Probability Model) – for a basic understanding, though not ideal for binary outcomes\nProbit Model – uses cumulative normal distribution to estimate adoption probability\nLogit Model – uses logistic distribution for binary outcomes\n\nIdentify Significant Variables: Examine p-values and coefficients from each model. Identify which variables significantly influence adoption decisions.\nInterpret the coefficients of the significant variables affecting adoption\n\n\n\n\n\n\n\n\n\nOutput submission\n\n\n\n\nUpload your .do file and the exported excel files containing the results for linear probability model (LPM) or OLS, probit, and logit.\n\nUpload your output here",
     "crumbs": [
       "**Day 2 sessions**",
       "Workshop 3: Adoption studies"

@@ -19,3 +19,13 @@ title: "Workshop 3: adoption studies"
 
 5.  Interpret the coefficients of the significant variables affecting adoption
 :::
+
+
+::: {.callout-tip}
+## Output submission
+
+1. Upload your .do file and the exported excel files containing the results for linear probability model (LPM) or OLS, probit, and logit.
+
+<a href="https://forms.gle/f7nHZAwswX6MwyXG9" target="_blank" class="btn-slides">Upload your output here</a>
+:::
+
