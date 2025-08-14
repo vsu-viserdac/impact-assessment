@@ -9,3 +9,10 @@ title: "Workshop 5: Difference-in-difference (DiD)"
 :::
 
 
+::: {.callout-tip}
+## Output submission
+
+1. Upload your completed Difference-in-Difference exercise.
+
+<a href="https://forms.gle/1YFNa4h9k9FAua9a7" target="_blank" class="btn-slides">Upload your output here</a>
+:::
