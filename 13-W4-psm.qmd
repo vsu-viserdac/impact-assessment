@@ -2,9 +2,16 @@
 title: "Workshop 4: propensity score matching (PSM)"
 ---
 
-:::: {.callout-note}
-
+::: callout-note
 #### Materials
 
 1.  **Access the Workshop Files:** Please download the required files from the shared folder: [workshop dataset](https://drive.google.com/drive/folders/1WguQD-Zp4UfYfo_zS7w8i7W9ewZGViiH?usp=sharing)
-::::
+:::
+
+::: {.callout-tip}
+## Output submission
+
+1. Upload your completed PSM output files.
+
+<a href="https://forms.gle/dq8ekeeBWah49M7L8" target="_blank" class="btn-slides">Upload your output here</a>
+:::

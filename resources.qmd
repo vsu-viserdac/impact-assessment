@@ -1,0 +1,13 @@
+---
+title: ""
+---
+
+![](plot/ie-header.jpg){fig-align="center"}
+
+::: {.callout-tip}
+## Articles and reading resources
+
+1. You may access the suggested articles and reading materials below.
+
+<a href="https://drive.google.com/drive/folders/1Y0693m6FBnyY9hzGDhO-MFfbv7jd2HMO?usp=sharing" target="_blank" class="btn-slides">Access our resources here</a>
+:::

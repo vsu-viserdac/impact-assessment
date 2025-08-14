@@ -31,6 +31,8 @@ website:
         text: "**Pre-assessment**"
       - href: "post-assess.qmd"
         text: "**Post-assessment**"
+      - href: "resources.qmd"
+        text: "**Resources**"
       - section: "**Day 1 sessions**"
         contents:
           - href: "01-L1-intro-impact-assessment.qmd"
